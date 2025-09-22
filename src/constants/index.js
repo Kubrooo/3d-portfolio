@@ -163,7 +163,7 @@ export const projects = [
     {
         iconUrl: summiz,
         theme: 'btn-back-yellow',
-        name: 'DailyIntern',
+        name: 'Esport Management App',
         description: 'Esport Management is a Windows Forms-based application used to manage esports tournaments. It provides features for managing teams and matches, as well as displaying real-time tournament and team statistics.',
         link: 'https://github.com/Kubrooo/EsportManagement',
     }

@@ -163,8 +163,8 @@ export const projects = [
     {
         iconUrl: summiz,
         theme: 'btn-back-yellow',
-        name: 'Esport Management App',
-        description: 'Esport Management is a Windows Forms-based application used to manage esports tournaments. It provides features for managing teams and matches, as well as displaying real-time tournament and team statistics.',
-        link: 'https://github.com/Kubrooo/EsportManagement',
+        name: 'PitWall - F1 Race Strategy Dashboard',
+        description: 'An immersive real-time F1 race strategy simulation dashboard. Experience the thrill of the pit wall as you monitor telemetry, dynamic weather, and unpredictable race-changing incidents.',
+        link: 'https://pit-wall-dashboard.vercel.app/',
     }
 ];

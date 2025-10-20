@@ -32,6 +32,7 @@ import csharp from './csharp.svg';
 import mysql from './mysql.svg';
 import mssql from './mssql.svg';
 import dotnet from './dotnet.svg';
+import iwima from './iwima.png'
 
 export {
     css,
@@ -68,4 +69,5 @@ export {
     mysql,
     mssql,
     dotnet,
+    iwima,
 }
